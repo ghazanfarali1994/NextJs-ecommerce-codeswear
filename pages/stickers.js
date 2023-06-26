@@ -1,7 +1,8 @@
 import Link from 'next/link'
 import React from 'react'
 
-const Tshirts = () => {
+
+const Stickers = () => {
   return (
     <div>
       <section className="text-gray-600 body-font">
@@ -9,7 +10,7 @@ const Tshirts = () => {
           <div className="flex flex-wrap -m-4">
             <div className="lg:w-1/5 md:w-1/2 p-4 w-full shadow-lg m-5">
             <Link href={'/product/wear-the-code'} className="block relative rounded overflow-hidden">
-                <img alt="ecommerce" className="m-auto h-[30vh] md:mx-0 md:h-[36vh] block" src="https://m.media-amazon.com/images/I/816tH-JfEQL._AC_UY500_.jpg"/>
+                <img alt="ecommerce" className="m-auto md:mx-0 block" src="https://m.media-amazon.com/images/I/8189ZQT7nDL._AC_SX569_.jpg"/>
               <div className="mt-4 text-center md:text-left">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">T-Shirts</h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
@@ -20,7 +21,7 @@ const Tshirts = () => {
             </div>
             <div className="lg:w-1/5 md:w-1/2 p-4 w-full shadow-lg m-5">
             <Link href={'/product/wear-the-code'} className="block relative rounded overflow-hidden">
-                <img alt="ecommerce" className="m-auto h-[30vh] md:mx-0 md:h-[36vh] block" src="https://m.media-amazon.com/images/I/816tH-JfEQL._AC_UY500_.jpg"/>
+                <img alt="ecommerce" className="m-auto md:mx-0 block" src="https://m.media-amazon.com/images/I/8189ZQT7nDL._AC_SX569_.jpg"/>
               <div className="mt-4 text-center md:text-left">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">T-Shirts</h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
@@ -31,7 +32,7 @@ const Tshirts = () => {
             </div>
             <div className="lg:w-1/5 md:w-1/2 p-4 w-full shadow-lg m-5">
             <Link href={'/product/wear-the-code'} className="block relative rounded overflow-hidden">
-                <img alt="ecommerce" className="m-auto h-[30vh] md:mx-0 md:h-[36vh] block" src="https://m.media-amazon.com/images/I/816tH-JfEQL._AC_UY500_.jpg"/>
+                <img alt="ecommerce" className="m-auto md:mx-0 block" src="https://m.media-amazon.com/images/I/8189ZQT7nDL._AC_SX569_.jpg"/>
               <div className="mt-4 text-center md:text-left">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">T-Shirts</h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
@@ -42,7 +43,7 @@ const Tshirts = () => {
             </div>
             <div className="lg:w-1/5 md:w-1/2 p-4 w-full shadow-lg m-5">
             <Link href={'/product/wear-the-code'} className="block relative rounded overflow-hidden">
-                <img alt="ecommerce" className="m-auto h-[30vh] md:mx-0 md:h-[36vh] block" src="https://m.media-amazon.com/images/I/816tH-JfEQL._AC_UY500_.jpg"/>
+                <img alt="ecommerce" className="m-auto md:mx-0 block" src="https://m.media-amazon.com/images/I/8189ZQT7nDL._AC_SX569_.jpg"/>
               <div className="mt-4 text-center md:text-left">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">T-Shirts</h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
@@ -53,7 +54,7 @@ const Tshirts = () => {
             </div>
             <div className="lg:w-1/5 md:w-1/2 p-4 w-full shadow-lg m-5">
             <Link href={'/product/wear-the-code'} className="block relative rounded overflow-hidden">
-                <img alt="ecommerce" className="m-auto h-[30vh] md:mx-0 md:h-[36vh] block" src="https://m.media-amazon.com/images/I/816tH-JfEQL._AC_UY500_.jpg"/>
+                <img alt="ecommerce" className="m-auto md:mx-0 block" src="https://m.media-amazon.com/images/I/8189ZQT7nDL._AC_SX569_.jpg"/>
               <div className="mt-4 text-center md:text-left">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">T-Shirts</h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
@@ -64,7 +65,7 @@ const Tshirts = () => {
             </div>
             <div className="lg:w-1/5 md:w-1/2 p-4 w-full shadow-lg m-5">
             <Link href={'/product/wear-the-code'} className="block relative rounded overflow-hidden">
-                <img alt="ecommerce" className="m-auto h-[30vh] md:mx-0 md:h-[36vh] block" src="https://m.media-amazon.com/images/I/816tH-JfEQL._AC_UY500_.jpg"/>
+                <img alt="ecommerce" className="m-auto md:mx-0 block" src="https://m.media-amazon.com/images/I/8189ZQT7nDL._AC_SX569_.jpg"/>
               <div className="mt-4 text-center md:text-left">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">T-Shirts</h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
@@ -75,7 +76,7 @@ const Tshirts = () => {
             </div>
             <div className="lg:w-1/5 md:w-1/2 p-4 w-full shadow-lg m-5">
             <Link href={'/product/wear-the-code'} className="block relative rounded overflow-hidden">
-                <img alt="ecommerce" className="m-auto h-[30vh] md:mx-0 md:h-[36vh] block" src="https://m.media-amazon.com/images/I/816tH-JfEQL._AC_UY500_.jpg"/>
+                <img alt="ecommerce" className="m-auto md:mx-0 block" src="https://m.media-amazon.com/images/I/8189ZQT7nDL._AC_SX569_.jpg"/>
               <div className="mt-4 text-center md:text-left">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">T-Shirts</h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
@@ -86,7 +87,7 @@ const Tshirts = () => {
             </div>
             <div className="lg:w-1/5 md:w-1/2 p-4 w-full shadow-lg m-5">
             <Link href={'/product/wear-the-code'} className="block relative rounded overflow-hidden">
-                <img alt="ecommerce" className="m-auto h-[30vh] md:mx-0 md:h-[36vh] block" src="https://m.media-amazon.com/images/I/816tH-JfEQL._AC_UY500_.jpg"/>
+                <img alt="ecommerce" className="m-auto md:mx-0 block" src="https://m.media-amazon.com/images/I/8189ZQT7nDL._AC_SX569_.jpg"/>
               <div className="mt-4 text-center md:text-left">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">T-Shirts</h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
@@ -97,7 +98,7 @@ const Tshirts = () => {
             </div>
             <div className="lg:w-1/5 md:w-1/2 p-4 w-full shadow-lg m-5">
             <Link href={'/product/wear-the-code'} className="block relative rounded overflow-hidden">
-                <img alt="ecommerce" className="m-auto h-[30vh] md:mx-0 md:h-[36vh] block" src="https://m.media-amazon.com/images/I/816tH-JfEQL._AC_UY500_.jpg"/>
+                <img alt="ecommerce" className="m-auto md:mx-0 block" src="https://m.media-amazon.com/images/I/8189ZQT7nDL._AC_SX569_.jpg"/>
               <div className="mt-4 text-center md:text-left">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">T-Shirts</h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
@@ -108,7 +109,7 @@ const Tshirts = () => {
             </div>
             <div className="lg:w-1/5 md:w-1/2 p-4 w-full shadow-lg m-5">
             <Link href={'/product/wear-the-code'} className="block relative rounded overflow-hidden">
-                <img alt="ecommerce" className="m-auto h-[30vh] md:mx-0 md:h-[36vh] block" src="https://m.media-amazon.com/images/I/816tH-JfEQL._AC_UY500_.jpg"/>
+                <img alt="ecommerce" className="m-auto md:mx-0 block" src="https://m.media-amazon.com/images/I/8189ZQT7nDL._AC_SX569_.jpg"/>
               <div className="mt-4 text-center md:text-left">
                 <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">T-Shirts</h3>
                 <h2 className="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
@@ -125,4 +126,4 @@ const Tshirts = () => {
   )
 }
 
-export default Tshirts
+export default Stickers
