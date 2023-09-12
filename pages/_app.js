@@ -10,7 +10,6 @@ export default function App({ Component, pageProps }) {
   const Router = useRouter()
 
   useEffect(() => {
-    console.log("Hey I am a useEffect from _app.js")
     try {
       if(localStorage.getItem("cart")){
         setCart(JSON.parse(localStorage.getItem("cart")))
